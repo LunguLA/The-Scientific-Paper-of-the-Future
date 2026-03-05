@@ -22,4 +22,4 @@ The following diagram illustrates the lifecycle of the survey, from Laura's init
 
 ![Provenance Diagram](provenance_diagram.png)
 
-*The provenance was generated programmatically using the `prov` Python library. You can view the execution trace in the `provenance_assignment.ipynb` notebook.*
+*The provenance was generated programmatically using the `prov` Python library. You can view the execution trace in the `prov.ipynb` notebook.*
